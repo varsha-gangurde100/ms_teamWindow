@@ -1,0 +1,25 @@
+.ChattingBar{
+    margin: auto;
+    background-color:whitesmoke;
+    position: absolute;
+    top:1px;
+    height:60px;
+    width:1000px;
+}
+.section-1{
+
+    margin: auto;
+    position: relative;
+    top:-50px;
+    left:150px;
+    background-color: whitesmoke;
+    text-align: justify;
+    word-spacing: 1em;
+    text-shadow:black;
+    font-size: 15px;
+}
+.second{
+    position: relative;
+    left:450px;
+}
+

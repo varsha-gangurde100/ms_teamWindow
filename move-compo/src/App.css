@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App-List{
+  background-color: blue;
+  font-size: medium;
+  width:100px;  
+}
+.App-Number{
+  background-color: crimson;
+  width: 100px;
+  height:450px;
+  position: absolute;
+  top:2px;
+  left:150px
+}
+.App-tool{
+  background-color: darkgreen;
+  width:100px
+}

@@ -1,0 +1,41 @@
+.Chatting-1{
+    position: absolute;
+    top:400px;
+    background-color:whitesmoke;
+    width: 900px;
+    height:30px;
+}
+.Chatting-2{
+    position: absolute;
+    top:400px;
+    width: 90px;
+    height:30px;
+    left:810px;
+    border-color: rgb(15, 12, 13);
+}
+.Chat{
+    background-color: teal;
+    position: absolute;
+    top:30px;
+    width: 900px;
+    height:330px;
+    left:10px;
+    overflow-y: scroll;   
+}
+.message{
+    position: absolute;
+    top:300px;
+    left:20px;
+    background-color:white;
+    width: 800px;
+    height:30px; 
+    
+}
+
+.list{
+ color:black;   
+ width:300px;
+ background-color:white;
+ height: 30px;
+ border-radius: 10px;
+}
